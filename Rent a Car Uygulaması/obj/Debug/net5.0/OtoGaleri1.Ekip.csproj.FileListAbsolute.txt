@@ -1,0 +1,16 @@
+C:\Users\FURKAN\Desktop\OtoGaleriUygulaması 1.Ekip\bin\Debug\net5.0\OtoGaleri1.Ekip.exe
+C:\Users\FURKAN\Desktop\OtoGaleriUygulaması 1.Ekip\bin\Debug\net5.0\OtoGaleri1.Ekip.deps.json
+C:\Users\FURKAN\Desktop\OtoGaleriUygulaması 1.Ekip\bin\Debug\net5.0\OtoGaleri1.Ekip.runtimeconfig.json
+C:\Users\FURKAN\Desktop\OtoGaleriUygulaması 1.Ekip\bin\Debug\net5.0\OtoGaleri1.Ekip.runtimeconfig.dev.json
+C:\Users\FURKAN\Desktop\OtoGaleriUygulaması 1.Ekip\bin\Debug\net5.0\OtoGaleri1.Ekip.dll
+C:\Users\FURKAN\Desktop\OtoGaleriUygulaması 1.Ekip\bin\Debug\net5.0\OtoGaleri1.Ekip.pdb
+C:\Users\FURKAN\Desktop\OtoGaleriUygulaması 1.Ekip\obj\Debug\net5.0\OtoGaleri1.Ekip.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\OtoGaleriUygulaması 1.Ekip\obj\Debug\net5.0\OtoGaleri1.Ekip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\OtoGaleriUygulaması 1.Ekip\obj\Debug\net5.0\OtoGaleri1.Ekip.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\OtoGaleriUygulaması 1.Ekip\obj\Debug\net5.0\OtoGaleri1.Ekip.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\OtoGaleriUygulaması 1.Ekip\obj\Debug\net5.0\OtoGaleri1.Ekip.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\OtoGaleriUygulaması 1.Ekip\obj\Debug\net5.0\OtoGaleri1.Ekip.dll
+C:\Users\FURKAN\Desktop\OtoGaleriUygulaması 1.Ekip\obj\Debug\net5.0\refint\OtoGaleri1.Ekip.dll
+C:\Users\FURKAN\Desktop\OtoGaleriUygulaması 1.Ekip\obj\Debug\net5.0\OtoGaleri1.Ekip.pdb
+C:\Users\FURKAN\Desktop\OtoGaleriUygulaması 1.Ekip\obj\Debug\net5.0\OtoGaleri1.Ekip.genruntimeconfig.cache
+C:\Users\FURKAN\Desktop\OtoGaleriUygulaması 1.Ekip\obj\Debug\net5.0\ref\OtoGaleri1.Ekip.dll

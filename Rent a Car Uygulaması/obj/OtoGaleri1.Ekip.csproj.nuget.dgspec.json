@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\FURKAN\\Desktop\\OtoGaleriUygulaması 1.Ekip\\OtoGaleri1.Ekip.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\FURKAN\\Desktop\\OtoGaleriUygulaması 1.Ekip\\OtoGaleri1.Ekip.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FURKAN\\Desktop\\OtoGaleriUygulaması 1.Ekip\\OtoGaleri1.Ekip.csproj",
+        "projectName": "OtoGaleri1.Ekip",
+        "projectPath": "C:\\Users\\FURKAN\\Desktop\\OtoGaleriUygulaması 1.Ekip\\OtoGaleri1.Ekip.csproj",
+        "packagesPath": "C:\\Users\\FURKAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FURKAN\\Desktop\\OtoGaleriUygulaması 1.Ekip\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\FURKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OtoGaleri1.Ekip/1.0.0": {
+        "runtime": {
+          "OtoGaleri1.Ekip.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OtoGaleri1.Ekip/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

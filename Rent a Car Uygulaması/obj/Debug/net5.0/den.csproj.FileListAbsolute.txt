@@ -1,0 +1,64 @@
+C:\Users\Gönül Bat\source\repos\den\bin\Debug\net5.0\den.exe
+C:\Users\Gönül Bat\source\repos\den\bin\Debug\net5.0\den.deps.json
+C:\Users\Gönül Bat\source\repos\den\bin\Debug\net5.0\den.runtimeconfig.json
+C:\Users\Gönül Bat\source\repos\den\bin\Debug\net5.0\den.runtimeconfig.dev.json
+C:\Users\Gönül Bat\source\repos\den\bin\Debug\net5.0\den.dll
+C:\Users\Gönül Bat\source\repos\den\bin\Debug\net5.0\den.pdb
+C:\Users\Gönül Bat\source\repos\den\obj\Debug\net5.0\den.csproj.AssemblyReference.cache
+C:\Users\Gönül Bat\source\repos\den\obj\Debug\net5.0\den.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gönül Bat\source\repos\den\obj\Debug\net5.0\den.AssemblyInfoInputs.cache
+C:\Users\Gönül Bat\source\repos\den\obj\Debug\net5.0\den.AssemblyInfo.cs
+C:\Users\Gönül Bat\source\repos\den\obj\Debug\net5.0\den.csproj.CoreCompileInputs.cache
+C:\Users\Gönül Bat\source\repos\den\obj\Debug\net5.0\den.dll
+C:\Users\Gönül Bat\source\repos\den\obj\Debug\net5.0\refint\den.dll
+C:\Users\Gönül Bat\source\repos\den\obj\Debug\net5.0\den.pdb
+C:\Users\Gönül Bat\source\repos\den\obj\Debug\net5.0\den.genruntimeconfig.cache
+C:\Users\Gönül Bat\source\repos\den\obj\Debug\net5.0\ref\den.dll
+C:\Users\Monster\Desktop\den\bin\Debug\net5.0\den.exe
+C:\Users\Monster\Desktop\den\bin\Debug\net5.0\den.deps.json
+C:\Users\Monster\Desktop\den\bin\Debug\net5.0\den.runtimeconfig.json
+C:\Users\Monster\Desktop\den\bin\Debug\net5.0\den.runtimeconfig.dev.json
+C:\Users\Monster\Desktop\den\bin\Debug\net5.0\den.dll
+C:\Users\Monster\Desktop\den\bin\Debug\net5.0\den.pdb
+C:\Users\Monster\Desktop\den\obj\Debug\net5.0\den.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\den\obj\Debug\net5.0\den.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\den\obj\Debug\net5.0\den.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\den\obj\Debug\net5.0\den.AssemblyInfo.cs
+C:\Users\Monster\Desktop\den\obj\Debug\net5.0\den.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\den\obj\Debug\net5.0\den.dll
+C:\Users\Monster\Desktop\den\obj\Debug\net5.0\refint\den.dll
+C:\Users\Monster\Desktop\den\obj\Debug\net5.0\den.pdb
+C:\Users\Monster\Desktop\den\obj\Debug\net5.0\den.genruntimeconfig.cache
+C:\Users\Monster\Desktop\den\obj\Debug\net5.0\ref\den.dll
+C:\Users\Monster\Desktop\rıza\bin\Debug\net5.0\den.exe
+C:\Users\Monster\Desktop\rıza\bin\Debug\net5.0\den.deps.json
+C:\Users\Monster\Desktop\rıza\bin\Debug\net5.0\den.runtimeconfig.json
+C:\Users\Monster\Desktop\rıza\bin\Debug\net5.0\den.runtimeconfig.dev.json
+C:\Users\Monster\Desktop\rıza\bin\Debug\net5.0\den.dll
+C:\Users\Monster\Desktop\rıza\bin\Debug\net5.0\den.pdb
+C:\Users\Monster\Desktop\rıza\obj\Debug\net5.0\den.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\rıza\obj\Debug\net5.0\den.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\rıza\obj\Debug\net5.0\den.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\rıza\obj\Debug\net5.0\den.AssemblyInfo.cs
+C:\Users\Monster\Desktop\rıza\obj\Debug\net5.0\den.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\rıza\obj\Debug\net5.0\den.dll
+C:\Users\Monster\Desktop\rıza\obj\Debug\net5.0\refint\den.dll
+C:\Users\Monster\Desktop\rıza\obj\Debug\net5.0\den.pdb
+C:\Users\Monster\Desktop\rıza\obj\Debug\net5.0\den.genruntimeconfig.cache
+C:\Users\Monster\Desktop\rıza\obj\Debug\net5.0\ref\den.dll
+C:\Users\AYKUT\Desktop\rıza\rıza\bin\Debug\net5.0\den.exe
+C:\Users\AYKUT\Desktop\rıza\rıza\bin\Debug\net5.0\den.deps.json
+C:\Users\AYKUT\Desktop\rıza\rıza\bin\Debug\net5.0\den.runtimeconfig.json
+C:\Users\AYKUT\Desktop\rıza\rıza\bin\Debug\net5.0\den.runtimeconfig.dev.json
+C:\Users\AYKUT\Desktop\rıza\rıza\bin\Debug\net5.0\den.dll
+C:\Users\AYKUT\Desktop\rıza\rıza\bin\Debug\net5.0\den.pdb
+C:\Users\AYKUT\Desktop\rıza\rıza\obj\Debug\net5.0\den.csproj.AssemblyReference.cache
+C:\Users\AYKUT\Desktop\rıza\rıza\obj\Debug\net5.0\den.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYKUT\Desktop\rıza\rıza\obj\Debug\net5.0\den.AssemblyInfoInputs.cache
+C:\Users\AYKUT\Desktop\rıza\rıza\obj\Debug\net5.0\den.AssemblyInfo.cs
+C:\Users\AYKUT\Desktop\rıza\rıza\obj\Debug\net5.0\den.csproj.CoreCompileInputs.cache
+C:\Users\AYKUT\Desktop\rıza\rıza\obj\Debug\net5.0\den.dll
+C:\Users\AYKUT\Desktop\rıza\rıza\obj\Debug\net5.0\refint\den.dll
+C:\Users\AYKUT\Desktop\rıza\rıza\obj\Debug\net5.0\den.pdb
+C:\Users\AYKUT\Desktop\rıza\rıza\obj\Debug\net5.0\den.genruntimeconfig.cache
+C:\Users\AYKUT\Desktop\rıza\rıza\obj\Debug\net5.0\ref\den.dll
